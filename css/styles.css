@@ -26,10 +26,12 @@ footer-logo  */
 
 .text-description {
   font-family: 'Roboto';
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--text-slate-color);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--text-slate-color);
 }
 
 .text-footer {
@@ -222,12 +224,10 @@ a:link {
 
 .button-port {
   font-family: 'Roboto' sans-serif;
-
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   display: flex;
-
   text-align: center;
   letter-spacing: 0.04em;
   color: #4D5AE5;
@@ -256,7 +256,7 @@ a:link {
 
 .p {
   color: #434455;
-  font-family: 'Roboto';
+  font-family: 'Roboto'sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -275,7 +275,7 @@ a:link {
 
 
 
-/* ---------Portfolio */
+
 
 
 
@@ -291,7 +291,6 @@ a:link {
 
 .footer-logo {
   font-family: 'Raleway';
-  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
