@@ -64,7 +64,7 @@ a:link {
   text-decoration: none;
 }
 
-.body {
+body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: var(--background-color);
@@ -84,7 +84,7 @@ a:link {
 }
 
 .main-logo {
-  font-family: 'Raleway' sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -296,7 +296,7 @@ a:link {
 }
 
 .footer-logo {
-  font-family: 'Raleway' sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
