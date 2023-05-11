@@ -83,7 +83,7 @@ body {
   list-style: none;
 }
 
-.main-logo {
+.main-logo link {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -93,6 +93,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--text-iris-color);
+  text-decoration: none;
 }
 
 .main-logotype {
@@ -104,7 +105,8 @@ body {
   list-style: none;
 }
 
-.top-line-nav {
+.top-line-nav list {
+  list-style: none;
   color: #2E2F42;
   display: inline-block;
   list-style: none;
@@ -165,6 +167,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  background-color: #4D5AE5;
   cursor: pointer;
 
 
