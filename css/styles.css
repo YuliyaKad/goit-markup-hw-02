@@ -78,7 +78,8 @@ a:link {
 .link {
   text-decoration: none;
 }
-.list{
+
+.list {
   list-style: none;
 }
 
@@ -295,7 +296,7 @@ a:link {
 }
 
 .footer-logo {
-  font-family: 'Raleway';
+  font-family: 'Raleway' sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
