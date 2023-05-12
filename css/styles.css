@@ -83,25 +83,62 @@ body {
   list-style: none;
 }
 
-/* .nav-main{
-  font-family: "Raleway",sans-serif;
-  font-size:  800;
+.nav-main {
+  font-family: "Raleway", sans-serif;
+  font-size: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  
-} */
+  color: #4D5AE5;
 
-.main-logo link {
+}
+
+
+
+
+/* .foot {
+  background-color: #2E2F42;
+  color: #F4F4FD;
+  font-family: 'Roboto';
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.footer-logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4D5AE5;
+}
+
+
+.foot {
+  color: var(--text-cloud-color);
+  background-color: #2E2F42;
+  list-style: none;
+
+}
+
+.footer-logotype {
+  color: #F4F4FD;
+}
+
+/* 
+ <footer class="foot"><a class="footer-logo link" href="./index.html">Web<span class="footer-logotype">Studio</span></a><p>Increase the flow of customers and sales for your business with digital marketing & growth solutions. </p></footer> */
+*/ .main-logo link {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--text-iris-color);
-  text-decoration: none;
+  color: #4D5AE5;
 }
 
 .main-logotype {
@@ -113,10 +150,10 @@ body {
   list-style: none;
 }
 
-.top-line-nav list {
+.top-line-nav {
   list-style: none;
   color: #2E2F42;
-  display: inline-block;
+
   list-style: none;
   font-family: 'Roboto';
   font-weight: 500;
@@ -334,3 +371,6 @@ body {
 .footer-logotype {
   color: #F4F4FD;
 }
+
+/* 
+ <footer class="foot"><a class="footer-logo link" href="./index.html">Web<span class="footer-logotype">Studio</span></a><p>Increase the flow of customers and sales for your business with digital marketing & growth solutions. </p></footer> */
