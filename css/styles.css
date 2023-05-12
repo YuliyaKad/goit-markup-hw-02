@@ -255,7 +255,7 @@ body {
   color: var(--header-color);
   letter-spacing: 0.02em;
 }
-}
+
 
 .our-work li {
   display: inline-flex;
@@ -280,9 +280,9 @@ body {
   display: inline-block;
 }
 
-
+/* --------PORTFOLIO------- */
 .button-port {
-  font-family: 'Roboto' sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -291,6 +291,7 @@ body {
   letter-spacing: 0.04em;
   color: #4D5AE5;
   cursor: pointer;
+  background-color: var(--text-cloud-color);
 }
 
 .button-port:hover,
@@ -300,7 +301,7 @@ body {
 }
 
 
-.filter-button li {
+/* .filter-button li {
   display: inline;
   text-decoration: none;
   font-family: 'Roboto' sans-serif;
@@ -309,9 +310,11 @@ body {
   padding: 10px 20px;
   list-style: none;
   background: #F4F4FD;
+} */
+
+.images {
+  text-decoration: none;
 }
-
-
 
 .p {
   color: #434455;
