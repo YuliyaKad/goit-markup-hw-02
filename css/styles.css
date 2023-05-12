@@ -90,7 +90,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--text-iris-color);
+  color: #4d5ae5;
 
 }
 
@@ -106,6 +106,10 @@ body {
 
 .main-logotype {
   color: #2E2F42;
+}
+
+.address{
+ font-style: normal;
 }
 
 .top-line-nav a {
