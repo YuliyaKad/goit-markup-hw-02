@@ -90,7 +90,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: var(--text-iris-color);
 
 }
 
@@ -240,7 +240,7 @@ body {
 
 /* SECTION TEAM */
 .team-list {
-  background: #F4F4FD
+  background: #FFFFFF
 }
 
 .team-list p {
