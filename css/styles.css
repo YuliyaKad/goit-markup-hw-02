@@ -220,7 +220,7 @@ body {
 }
 
 /* SECTION 3 */
-.doing-list {}
+
 
 .work-title {
   font-size: 36px;
@@ -230,11 +230,6 @@ body {
   color: var(--header-color);
 }
 
-.our-work {}
-
-.list {}
-
-.our-work-pic {}
 
 
 
@@ -301,23 +296,7 @@ body {
 }
 
 
-/* .filter-button li {
-  display: inline;
-  text-decoration: none;
-  font-family: 'Roboto' sans-serif;
-  color: #4D5AE5;
-  display: inline-block;
-  padding: 10px 20px;
-  list-style: none;
-  background: #F4F4FD;
-} */
 
-/* .image {
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 20px ;
-  line-height: 1.2
-} */
 
 .p {
   color: #434455;
@@ -378,5 +357,3 @@ body {
   color: #F4F4FD;
 }
 
-/* 
- <footer class="foot"><a class="footer-logo link" href="./index.html">Web<span class="footer-logotype">Studio</span></a><p>Increase the flow of customers and sales for your business with digital marketing & growth solutions. </p></footer> */
