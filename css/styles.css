@@ -108,9 +108,12 @@ body {
   color: #2E2F42;
 }
 
-.address{
- font-style: normal;
+.address {
+  font-style: normal;
 }
+
+/* ---------------SECTION 2----------------------- */
+
 
 .top-line-nav a {
   color: #2E2F42;
@@ -216,16 +219,42 @@ body {
 
 }
 
-
-
+/* SECTION 3 */
 .doing-list {}
 
+.work-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: var(--header-color);
+}
+
+.our-work {}
+
+.list {}
+
+.our-work-pic {}
+
+
+
+/* SECTION TEAM */
 .team-list {
   background: #F4F4FD
 }
 
 .team-list p {
   font-family: 'Roboto', sans-serif;
+}
+
+.team-photo {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: var(--header-color);
+  letter-spacing: 0.02em;
+}
 }
 
 .our-work li {
