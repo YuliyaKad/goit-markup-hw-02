@@ -245,7 +245,7 @@ body {
   background-color: #F4F4FD;
 }
 
-.image1{
+.image-main{
   background-color: #FFFFFF;
 }
 .team-list p {
@@ -325,6 +325,9 @@ body {
   border: 1px solid #E7E9FC;
   background: #FFFFFF;
   font-family: 'Roboto';
+}
+.image link{
+  text-decoration: none;
 }
 
 
