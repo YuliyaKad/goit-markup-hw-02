@@ -85,7 +85,7 @@ body {
 
 .team-list{
   background-color: #F4F4FD;
-  
+
 }
 
 .nav-main {
@@ -108,6 +108,7 @@ body {
   text-transform: uppercase;
   color: var(--text-iris-color);
 }
+
 
 .main-logotype {
   color: #2E2F42;
@@ -240,7 +241,8 @@ body {
 
 /* SECTION TEAM */
 .team-list {
-  background: #FFFFFF
+ 
+  background-color: #F4F4FD;
 }
 
 .team-list p {
